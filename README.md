@@ -1,8 +1,8 @@
  <img alt="banner "  src="./assets/banner.png" />
 
-#  Christian Ydoow Ramirez
+# <p align="center" style="color: #064f86;">Hi there, I'm Chris</p>
 
-**`FRONTEND DEVELOPER`**
+## <p align="center" style="color: #064f86;">FRONTEND DEVELOPER</p>
 
 A passionate Frontend web developer and some Backend knowledge , also a UI/UX enthusiast specialized in building stunning pixel-perfect interactive websites/applications.
 
