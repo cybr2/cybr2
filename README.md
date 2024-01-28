@@ -1,16 +1,18 @@
+ <img alt="banner "  src="./assets/banner.png" />
+
 #  Christian Ydoow Ramirez
 
 **`FRONTEND DEVELOPER`**
 
 A passionate Frontend web developer and some Backend knowledge , also a UI/UX enthusiast specialized in building stunning pixel-perfect interactive websites/applications.
 
-   <p align="left">
+   <p align="center">
       <a href="mailto:ydoowbernisca2@gmail.com">
-         <img alt="gmail account " title="gmail account linked" src="./assets/gmailIcon.png" width="40" height="40"/></a> 
+         <img alt="gmail account " title="gmail account linked" src="./assets/gmailIcon.png" width="30" height="30"/></a> 
       <a href="https://github.com/cybr2">
-         <img alt="githubIcon" title="Github linked" src="./assets/githubIcon.png" width="40" height="40"/></a> 
+         <img alt="githubIcon" title="Github linked" src="./assets/githubIcon.png" width="30" height="30"/></a> 
       <a href="https://www.linkedin.com/in/ydoow/">
-         <img alt="linkedinIcon" title="linkedin profile linked" src="./assets//linkedinIcon.png" width="40" height="40"/></a>
+         <img alt="linkedinIcon" title="linkedin profile linked" src="./assets//linkedinIcon.png" width="30" height="30"/></a>
    </p>
 
 ---
@@ -98,16 +100,16 @@ A passionate Frontend web developer and some Backend knowledge , also a UI/UX en
 ### 📺 Feature Projects 
 
 <a href="https://caffeine-web-one.vercel.app/" > 
-    <img src="./assets/projects/caffeineApp.png" alt="projectIcon" width="100" height="100"/> 
+    <img src="./assets/projects/caffeineApp.png" alt="projectIcon" width="200" height="200"/> 
 </a> 
 <a href="https://github.com/christianYdoow/final-project-group-2" > 
-    <img src="./assets/projects/login.png" alt="projectIcon" width="100" height="100"/> 
+    <img src="./assets/projects/login.png" alt="projectIcon" width="200" height="200"/> 
 </a>
 <a href="https://cybr2.github.io/basicWeatherApp/" > 
-    <img src="./assets/projects/weatherApp.png" alt="projectIcon" width="100" height="100"/> 
+    <img src="./assets/projects/weatherApp.png" alt="projectIcon" width="200" height="200"/> 
 </a>
 <a href="https://cybr2.github.io/basicQuizApp/" > 
-    <img src="./assets/projects/quizApp.png" alt="projectIcon" width="100" height="100"/> 
+    <img src="./assets/projects/quizApp.png" alt="projectIcon" width="200" height="200"/> 
 </a>
 
 
