@@ -111,6 +111,13 @@ A passionate Frontend web developer and some Backend knowledge , also a UI/UX en
 <a href="https://cybr2.github.io/basicQuizApp/"  > 
     <img src="./assets/projects/quizApp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
 </a>
+<a href="https://formapp-fe.vercel.app/"  > 
+    <img src="./assets/projects/formapp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
+</a>
+<a href="https://web-portfolio-six-beta.vercel.app/"  > 
+    <img src="./assets/projects/webPortfolio-sub-1.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
+</a>
+
 
 
 
