@@ -2,8 +2,6 @@
 
 # <p align="center" style="color: #064f86;">Hi there, I'm Chris</p>
 
-## <p align="center" style="color: #064f86;">FRONTEND DEVELOPER</p>
-
 A passionate Frontend web developer and some Backend knowledge , also a UI/UX enthusiast specialized in building stunning pixel-perfect interactive websites/applications.
 
    <p align="center">
