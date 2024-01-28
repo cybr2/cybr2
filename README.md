@@ -108,9 +108,21 @@ A passionate Frontend web developer and some Backend knowledge , also a UI/UX en
 <a href="https://cybr2.github.io/basicWeatherApp/" > 
     <img src="./assets/projects/weatherApp.png" alt="projectIcon" width="200" height="200"/> 
 </a>
-<a href="https://cybr2.github.io/basicQuizApp/" > 
+<a href="https://cybr2.github.io/basicQuizApp/"  > 
     <img src="./assets/projects/quizApp.png" alt="projectIcon" width="200" height="200"/> 
 </a>
+
+[![Project](https://caffeine-web-one.vercel.app/)](https://caffeine-web-one.vercel.app/)
+<img src="./assets/projects/caffeineApp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;">
+
+[![Project](https://github.com/christianYdoow/final-project-group-2)](https://github.com/christianYdoow/final-project-group-2)
+<img src="./assets/projects/login.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;">
+
+[![Project](https://cybr2.github.io/basicWeatherApp/)](https://cybr2.github.io/basicWeatherApp/)
+<img src="./assets/projects/weatherApp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;">
+
+[![Project](https://cybr2.github.io/basicQuizApp/)](https://cybr2.github.io/basicQuizApp/)
+<img src="./assets/projects/quizApp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;">
 
 
 
