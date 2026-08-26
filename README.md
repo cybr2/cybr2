@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/banner-dark.svg">
-  <img alt="Christian Ramirez — Full-Stack Software Engineer. Bulacan, PH. 2+ years experience. React, Next.js, Spring Boot. Open to work." src="./assets/svg/banner-light.svg">
+  <img alt="Christian Ramirez - Full-Stack Software Engineer. Bulacan, PH. 2+ years experience. React, Next.js, Spring Boot. Open to work." src="./assets/svg/banner-light.svg">
 </picture>
 
 ## About
@@ -108,5 +108,5 @@ Data mappings for API payloads, AWS CloudWatch monitoring, Jenkins CI/CD support
 <p align="center">
   <a href="mailto:ydoowbernisca2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ydoowbernisca2@gmail.com-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE"></a>
   <a href="https://www.linkedin.com/in/ydoow/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in/ydoow-0D1117?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=22D3EE"></a>
-  <a href="https://christian-portfolio-one-phi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-christian-portfolio-one.phi-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE"></a>
+  <a href="https://christian-portfolio-one-phi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-christian-portfolio-one-phi-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE"></a>
 </p>
