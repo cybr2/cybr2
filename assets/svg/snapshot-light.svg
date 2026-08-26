@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" width="560" height="420" role="img" aria-label="Snapshot: location, education, and current focus of Christian Ramirez">
+  <rect width="560" height="420" rx="24" fill="#FFFFFF" stroke="#D1D5DB"/>
+  <text x="40" y="64" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="16" letter-spacing="3.5" fill="#6B7280">SNAPSHOT</text>
+
+  <text x="40" y="112" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="15" letter-spacing="2" fill="#6B7280">LOCATION</text>
+  <text x="40" y="148" font-family="Poppins,'Segoe UI',system-ui,sans-serif" font-weight="700" font-size="28" letter-spacing="-0.5" fill="#111827">Bulacan, Philippines</text>
+  <line x1="40" y1="176" x2="520" y2="176" stroke="#D1D5DB"/>
+
+  <text x="40" y="214" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="15" letter-spacing="2" fill="#6B7280">EDUCATION</text>
+  <text x="40" y="250" font-family="Poppins,'Segoe UI',system-ui,sans-serif" font-weight="700" font-size="26" letter-spacing="-0.5" fill="#111827">BS Computer Science</text>
+  <text x="40" y="280" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="19" fill="#4B5E74">St. Clare College of Caloocan · 2022</text>
+  <line x1="40" y1="306" x2="520" y2="306" stroke="#D1D5DB"/>
+
+  <text x="40" y="344" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="15" letter-spacing="2" fill="#6B7280">CURRENT FOCUS</text>
+  <text x="40" y="374" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="19" fill="#4B5E74">Frontend delivery · API integration</text>
+  <text x="40" y="400" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="19" fill="#4B5E74">Workflow automation</text>
+</svg>

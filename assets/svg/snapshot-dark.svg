@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" width="560" height="420" role="img" aria-label="Snapshot: location, education, and current focus of Christian Ramirez">
+  <rect width="560" height="420" rx="24" fill="#05070A"/>
+  <g stroke="#FFFFFF" stroke-opacity="0.03">
+    <path d="M22 0V420M66 0V420M110 0V420M154 0V420M198 0V420M242 0V420M286 0V420M330 0V420M374 0V420M418 0V420M462 0V420M506 0V420"/>
+    <path d="M0 22H560M0 66H560M0 110H560M0 154H560M0 198H560M0 242H560M0 286H560M0 330H560M0 374H560"/>
+  </g>
+  <text x="40" y="64" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="16" letter-spacing="3.5" fill="#4B5E74">SNAPSHOT</text>
+
+  <text x="40" y="112" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="15" letter-spacing="2" fill="#4B5E74">LOCATION</text>
+  <text x="40" y="148" font-family="Poppins,'Segoe UI',system-ui,sans-serif" font-weight="700" font-size="28" letter-spacing="-0.5" fill="#FFFFFF">Bulacan, Philippines</text>
+  <line x1="40" y1="176" x2="520" y2="176" stroke="#30363D"/>
+
+  <text x="40" y="214" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="15" letter-spacing="2" fill="#4B5E74">EDUCATION</text>
+  <text x="40" y="250" font-family="Poppins,'Segoe UI',system-ui,sans-serif" font-weight="700" font-size="26" letter-spacing="-0.5" fill="#FFFFFF">BS Computer Science</text>
+  <text x="40" y="280" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="19" fill="#8B9BB0">St. Clare College of Caloocan · 2022</text>
+  <line x1="40" y1="306" x2="520" y2="306" stroke="#30363D"/>
+
+  <text x="40" y="344" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="15" letter-spacing="2" fill="#4B5E74">CURRENT FOCUS</text>
+  <text x="40" y="374" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="19" fill="#8B9BB0">Frontend delivery · API integration</text>
+  <text x="40" y="400" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="19" fill="#8B9BB0">Workflow automation</text>
+</svg>
