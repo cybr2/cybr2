@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 400" width="1480" height="400" role="img" aria-label="Christian Ramirez — Full-Stack Software Engineer">
+  <rect width="1480" height="400" rx="24" fill="#F9FAFB"/>
+  <g stroke="#111827" stroke-opacity="0.03">
+    <!-- verticals x=22..1458 step 44; horizontals y=22..378 step 44 -->
+    <path d="M22 0V400M66 0V400M110 0V400M154 0V400M198 0V400M242 0V400M286 0V400M330 0V400M374 0V400M418 0V400M462 0V400M506 0V400M550 0V400M594 0V400M638 0V400M682 0V400M726 0V400M770 0V400M814 0V400M858 0V400M902 0V400M946 0V400M990 0V400M1034 0V400M1078 0V400M1122 0V400M1166 0V400M1210 0V400M1254 0V400M1298 0V400M1342 0V400M1386 0V400M1430 0V400"/>
+    <path d="M0 22H1480M0 66H1480M0 110H1480M0 154H1480M0 198H1480M0 242H1480M0 286H1480M0 330H1480M0 374H1480"/>
+  </g>
+  <text x="64" y="96" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="20" letter-spacing="4.4" fill="#6B7280">CYBR / GITHUB</text>
+  <text x="64" y="196" font-family="Poppins,'Segoe UI',system-ui,sans-serif" font-weight="700" font-size="76" letter-spacing="-1.5" fill="#111827">Christian Ramirez</text>
+  <text x="64" y="248" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="29" fill="#4B5E74">Full-Stack Software Engineer</text>
+  <g>
+    <rect x="64" y="300" width="184" height="34" rx="17" fill="#FFFFFF" stroke="#D1D5DB"/>
+    <rect x="268" y="300" width="132" height="34" rx="17" fill="#FFFFFF" stroke="#D1D5DB"/>
+    <rect x="420" y="300" width="366" height="34" rx="17" fill="#FFFFFF" stroke="#D1D5DB"/>
+    <rect x="806" y="300" width="190" height="34" rx="17" fill="#FFFFFF" stroke="#059669" stroke-opacity="0.35"/>
+    <text x="84" y="323" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="18" fill="#111827">📍 Bulacan, PH</text>
+    <text x="288" y="323" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="18" fill="#111827">⚡ 2+ yrs</text>
+    <text x="440" y="323" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="18" fill="#111827">React · Next.js · Spring Boot</text>
+    <text x="826" y="323" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="18" fill="#059669">● Open to work</text>
+  </g>
+</svg>
