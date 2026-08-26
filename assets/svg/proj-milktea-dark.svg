@@ -12,8 +12,8 @@
     <rect x="880" y="0" width="230" height="360" fill="url(#fade)"/>
   </g>
   <text x="56" y="78" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="15" letter-spacing="3" fill="#4B5E74">WEB APP · 04</text>
-  <rect x="56" y="96" width="216" height="32" rx="16" fill="FEBC2E" fill-opacity="0.08" stroke="FEBC2E" stroke-opacity="0.35"/>
-  <text x="72" y="118" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="16" fill="FEBC2E">Planning / UI Design</text>
+  <rect x="56" y="96" width="216" height="32" rx="16" fill="#FEBC2E" fill-opacity="0.08" stroke="#FEBC2E" stroke-opacity="0.35"/>
+  <text x="72" y="118" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="16" fill="#FEBC2E">Planning / UI Design</text>
   <text x="56" y="188" font-family="Poppins,'Segoe UI',system-ui,sans-serif" font-weight="700" font-size="42" letter-spacing="-0.8" fill="#FFFFFF">Milktea POS System</text>
   <text x="56" y="232" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="21" fill="#8B9BB0">Cashier-first POS concept for drink ordering and reporting.</text>
   <text x="56" y="306" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="17" fill="#8B9BB0" fill-opacity="0.75">Spring Boot · Next.js · PostgreSQL</text>
