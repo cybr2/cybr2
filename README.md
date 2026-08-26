@@ -1,136 +1,112 @@
- <img alt="banner "  src="./assets/banner.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/banner-dark.svg">
+  <img alt="Christian Ramirez — Full-Stack Software Engineer. Bulacan, PH. 2+ years experience. React, Next.js, Spring Boot. Open to work." src="./assets/svg/banner-light.svg">
+</picture>
 
-# <p align="center" style="color: #064f86;">Hi there, I'm Chris</p>
+## About
 
-A passionate Frontend web developer and some Backend knowledge , also a UI/UX enthusiast specialized in building stunning pixel-perfect interactive websites/applications.
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-   <p align="center">
-      <a href="mailto:ydoowbernisca2@gmail.com">
-         <img alt="gmail account " title="gmail account linked" src="./assets/gmailIcon.png" width="30" height="30"/></a> 
-      <a href="https://github.com/cybr2">
-         <img alt="githubIcon" title="Github linked" src="./assets/githubIcon.png" width="30" height="30"/></a> 
-      <a href="https://www.linkedin.com/in/ydoow/">
-         <img alt="linkedinIcon" title="linkedin profile linked" src="./assets//linkedinIcon.png" width="30" height="30"/></a>
-   </p>
+Performance-driven software engineer with 2+ years of experience across frontend development, workflow automation, API integration, and backend systems.
 
----
+**Current Focus**
 
-### 🧰 Languages and Tools
+- Frontend delivery with Vue.js, React.js, Next.js, and Tailwind CSS
+- Backend & automation across APIs, webhooks, CI/CD, and cloud logs
+- Building production features end to end
 
-<p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a> 
+</td>
+    <td width="38%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/snapshot-dark.svg">
+  <img alt="Snapshot card: Bulacan Philippines, BS Computer Science from St. Clare College of Caloocan 2022, current focus areas." src="./assets/svg/snapshot-light.svg">
+</picture>
+    </td>
+  </tr>
+</table>
+
+## Skills
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/skills-matrix-dark.svg">
+  <img alt="Skills matrix: languages, frontend, backend, databases, automation, cloud and DevOps, developer tools, software engineering." src="./assets/svg/skills-matrix-light.svg">
+</picture>
+
+## Featured Projects
+
+Case studies from my portfolio — click any card to read the full breakdown.
+
+<a href="https://christian-portfolio-one-phi.vercel.app/projects/xietech-public-website">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/proj-xietech-dark.svg">
+    <img alt="XieTech Public Website — completed corporate website built with Next.js, TypeScript, Tailwind CSS." src="./assets/svg/proj-xietech-light.svg">
+  </picture>
+</a>
+
+<a href="https://christian-portfolio-one-phi.vercel.app/projects/cascade-coat-painting-website">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/proj-cascade-dark.svg">
+    <img alt="Cascade Coat Painting Website — completed brand-driven marketing site built with Next.js, TypeScript, Tailwind, GSAP." src="./assets/svg/proj-cascade-light.svg">
+  </picture>
+</a>
+
+<a href="https://christian-portfolio-one-phi.vercel.app/projects/kindred-visits-website">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/proj-kindred-dark.svg">
+    <img alt="Kindred Visits Website — completed static-exported rebuild built with Next.js, TypeScript, GSAP." src="./assets/svg/proj-kindred-light.svg">
+  </picture>
+</a>
+
+<a href="https://christian-portfolio-one-phi.vercel.app/projects/milktea-pos-system">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/proj-milktea-dark.svg">
+    <img alt="Milktea POS System — planning/UI design for cashier-first POS concept built with Spring Boot, Next.js, PostgreSQL." src="./assets/svg/proj-milktea-light.svg">
+  </picture>
+</a>
+
+<a href="https://christian-portfolio-one-phi.vercel.app/projects/pahina-ebook-store">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/proj-pahina-dark.svg">
+    <img alt="Pahina EBook Store — completed full-stack eBook marketplace built with Spring Boot, PostgreSQL, React.js." src="./assets/svg/proj-pahina-light.svg">
+  </picture>
+</a>
+
+<a href="https://christian-portfolio-one-phi.vercel.app/projects/attendance-monitoring-automation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/proj-attendance-dark.svg">
+    <img alt="Attendance Monitoring Automation — completed time-in tracking and absence warning system built with GoHighLevel, Workflows, Google Sheets." src="./assets/svg/proj-attendance-light.svg">
+  </picture>
+</a>
+
+<a href="https://christian-portfolio-one-phi.vercel.app/projects/pursuit-job-application-tracker">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/proj-pursuit-dark.svg">
+    <img alt="Pursuit — Job Application Tracker — completed local-first job pipeline tracker built with React Native, Expo, SQLite." src="./assets/svg/proj-pursuit-light.svg">
+  </picture>
+</a>
+
+## Stats
+
+<table border="0">
+  <tr>
+    <td><img alt="GitHub stats: cybr2" src="https://github-readme-stats.vercel.app/api?username=cybr2&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=FFFFFF&text_color=C9D4E0&icon_color=22D3EE&border_color=30363D&border_radius=12"></td>
+    <td><img alt="GitHub streak stats: cybr2" src="https://streak-stats.demolab.com?user=cybr2&background=0D1117&border=30363D&border_radius=12&dates=8B9BB0&ring=3ECF8E&fire=E67E22&currStreakNum=FFFFFF&sideNums=C9D4E0&currStreakLabel=22D3EE&sideLabels=8B9BB0"></td>
+  </tr>
+</table>
+<img alt="Top languages: cybr2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybr2&layout=compact&langs_count=8&bg_color=0D1117&title_color=FFFFFF&text_color=C9D4E0&border_color=30363D&border_radius=12">
+
+## Experience
+
+**Speedy Global** — Frontend Web Developer · May 2024 – Nov 2024
+Built responsive Vue.js/Tailwind pages from Figma designs; integrated APIs for data capture and retrieval.
+
+**Novare Technologies Inc.** — Associate Software Engineer · Nov 2022 – Nov 2023
+Data mappings for API payloads, AWS CloudWatch monitoring, Jenkins CI/CD support, unit testing.
+
+<p align="center">
+  <a href="mailto:ydoowbernisca2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ydoowbernisca2@gmail.com-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE"></a>
+  <a href="https://www.linkedin.com/in/ydoow/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in/ydoow-0D1117?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=22D3EE"></a>
+  <a href="https://christian-portfolio-one-phi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-christian-portfolio-one.phi-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE"></a>
 </p>
-<br />
-
-#
-
-### 📺 Feature Projects 
-
-<a href="https://caffeine-web-one.vercel.app/" > 
-    <img src="./assets/projects/caffeineApp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
-</a> 
-<a href="https://github.com/christianYdoow/final-project-group-2" > 
-    <img src="./assets/projects/login.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
-</a>
-<a href="https://cybr2.github.io/basicWeatherApp/" > 
-    <img src="./assets/projects/weatherApp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
-</a>
-<a href="https://cybr2.github.io/basicQuizApp/"  > 
-    <img src="./assets/projects/quizApp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
-</a>
-<a href="https://formapp-fe.vercel.app/"  > 
-    <img src="./assets/projects/formapp.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
-</a>
-<a href="https://web-portfolio-six-beta.vercel.app/"  > 
-    <img src="./assets/projects/webPortfolio-sub-1.png" alt="projectIcon" style="width: 200px; height: 200px; object-fit: cover;"/> 
-</a>
-
-
-
-
-#
-
-### 📊 Stats
-
-![chris GitHub stats](https://github-readme-stats.vercel.app/api?username=cybr2&show_icons=true&theme=gruvbox)
-
-#
-
-<details>
- <summary><h3>👨‍💻 Chris Coding Journey</h3></summary>
-   Continuing on this journey, my enthusiasm for programming only deepened as I delved into the intricacies of code, Unix and Linux systems, and the theoretical foundations of computer science. Alongside my academic pursuits, I took the initiative to teach myself mobile development, fueled by a steadfast dream to one day bring my own app to life. This self-directed learning not only broadened my skill set but also served as the catalyst for the exciting opportunities that awaited me after graduation.
-   Landing my first job as a software engineer marked a significant milestone in my professional journey. It was the culmination of years of dedication, self-learning, and a passion for the vast and dynamic world of computer science. Joining the workforce allowed me to apply my theoretical knowledge and programming skills in a real-world setting. The experience not only provided valuable hands-on exposure to the intricacies of software development but also opened doors to a collaborative and innovative work environment.
-   Now embarking on my journey as a frontend developer has been a natural progression, building upon the solid foundation I established as a software engineer. As I transition into this specialized role, my focus has shifted towards crafting seamless and engaging user experiences. Dive into the realm of frontend development has not only refined my coding skills but has also deepened my understanding of user interface design, web accessibility, and performance optimization.
-
-[website]: https://web-portfolio-six-beta.vercel.app/
