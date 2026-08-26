@@ -89,13 +89,24 @@ Case studies from my portfolio — click any card to read the full breakdown.
 
 ## Stats
 
-<table border="0">
-  <tr>
-    <td><img alt="GitHub stats: cybr2" src="https://github-readme-stats.vercel.app/api?username=cybr2&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=FFFFFF&text_color=C9D4E0&icon_color=22D3EE&border_color=30363D&border_radius=12"></td>
-    <td><img alt="GitHub streak stats: cybr2" src="https://streak-stats.demolab.com?user=cybr2&background=0D1117&border=30363D&border_radius=12&dates=8B9BB0&ring=3ECF8E&fire=E67E22&currStreakNum=FFFFFF&sideNums=C9D4E0&currStreakLabel=22D3EE&sideLabels=8B9BB0"></td>
-  </tr>
-</table>
-<img alt="Top languages: cybr2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybr2&layout=compact&langs_count=8&bg_color=0D1117&title_color=FFFFFF&text_color=C9D4E0&border_color=30363D&border_radius=12">
+<p align="center">
+  <img alt="Repos" src="https://img.shields.io/badge/Repos-16-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE&logo=github&logoColor=C9D4E0">
+  <img alt="Followers" src="https://img.shields.io/badge/Followers-3-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE&logo=github&logoColor=C9D4E0">
+  <img alt="Stars" src="https://img.shields.io/github/stars/cybr2?style=flat-square&label=Stars&color=22D3EE&labelColor=0D1117&logo=github&logoColor=C9D4E0">
+</p>
+
+<p align="center">
+  <img alt="GitHub streak stats: cybr2" src="https://streak-stats.demolab.com?user=cybr2&background=0D1117&border=30363D&border_radius=12&dates=8B9BB0&ring=3ECF8E&fire=E67E22&currStreakNum=FFFFFF&sideNums=C9D4E0&currStreakLabel=22D3EE&sideLabels=8B9BB0">
+</p>
+
+### Languages
+
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-4_repos-0D1117?style=flat-square&labelColor=0D1117&color=C9D4E0&logo=javascript&logoColor=22D3EE">
+  <img alt="Python" src="https://img.shields.io/badge/Python-4_repos-0D1117?style=flat-square&labelColor=0D1117&color=C9D4E0&logo=python&logoColor=22D3EE">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2_repos-0D1117?style=flat-square&labelColor=0D1117&color=C9D4E0&logo=typescript&logoColor=22D3EE">
+  <img alt="Java" src="https://img.shields.io/badge/Java-2_repos-0D1117?style=flat-square&labelColor=0D1117&color=C9D4E0&logo=openjdk&logoColor=22D3EE">
+</p>
 
 ## Experience
 
